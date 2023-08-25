@@ -1,0 +1,43 @@
+body,HTML {
+    margin: 0%;
+    background-color:rgb(55, 163, 125);
+    background-image: url(".imag/agua.jpg");
+    background-repeat: repeat-y;
+
+    background-position: right top;
+    background-attachment: scroll;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+
+
+  
+}
+   h3 {
+        text-align: center;
+    }
+
+    h4 {
+        text-align: center;
+    }
+
+    p {
+        
+        padding-right: 10%;
+        padding-left: 10%;
+        text-align: justify;
+}
+#IMAGEM {
+        padding-left: 20%;20%;20%;20%;
+        color: blue;
+        text-align: center;
+}
+
+#METAS {
+    t   ext-decoration: dashed;
+        padding-right: 10%;
+}
+
+#MENSAGEM {
+        color:red;
+       
+}
